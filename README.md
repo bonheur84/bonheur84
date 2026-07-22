@@ -5,10 +5,6 @@
 ---
 
 
-
-<img align="right" width="250" src="<img width="958" height="960" alt="20250712_170901" src="https://github.com/user-attachments/assets/4d80fb61-56e9-47ba-9901-33c8ef4a0096" />
-"/>
-
 # 👋 Salut !
 
 Je suis **Bonheur Nzau**
