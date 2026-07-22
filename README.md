@@ -1,83 +1,98 @@
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Bonheur+Nzau;AI+Engineer+Student;Full+Stack+Developer;Machine+Learning+Explorer;Building+Digital+Solutions" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Bonheur Nzau</h1>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Bonheur+Nzau;Artificial+Intelligence+Engineer+Student;Full+Stack+Developer;Machine+Learning+Explorer;Building+Future+Technologies" />
 
-<p align="center">
-  <b>Artificial Intelligence Student | Full Stack Developer | Technology Enthusiast</b>
-</p>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=bonheur84&label=Profile%20Views&color=00ffff&style=flat" />
+
+</div>
+
+
+<h1 align="center">
+👋 Welcome to my GitHub Profile
+</h1>
+
+
+<div align="center">
+
+## 🚀 Bonheur Nzau
+
+🎓 Computer Science Student  
+🤖 Artificial Intelligence Engineer Student  
+💻 Full Stack Developer  
+🌍 Democratic Republic of Congo 🇨🇩
+
+</div>
+
 
 ---
 
-## 👨‍💻 About Me
+# 🧠 About Me
 
-🎓 Computer Science Student specialized in Artificial Intelligence
+I am a passionate Computer Science student focused on creating innovative digital solutions.
 
-🤖 Passionate about Machine Learning, Automation and intelligent systems
+My interests include:
 
-💻 Full Stack Developer building modern web applications
-
-🚀 Interested in creating scalable solutions using clean architecture and modern technologies
-
-🌍 Based in Democratic Republic of Congo 🇨🇩
-
-📚 Currently learning:
-- Artificial Intelligence
-- Machine Learning
-- Cloud Computing
-- Cybersecurity
+- Artificial Intelligence & Machine Learning
+- Full Stack Web Development
 - Software Engineering
+- Cybersecurity
+- Robotics & Embedded Systems
+- Open Source Projects
+
+
+Currently building projects with modern technologies and improving my skills every day.
+
 
 ---
 
-# 🛠️ Tech Stack
+# ⚡ Technology Stack
 
-## Programming Languages
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript" />
-</p>
+<div align="center">
 
-## Frontend Development
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,html,css,tailwind,react,nextjs,nodejs,express,fastapi,postgres,mysql,supabase,docker,git,linux&perline=7"/>
 
-## Backend Development
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
-</p>
+</div>
 
-## Databases
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
-</p>
+---
 
-## Tools & Environment
+# 🛠️ Development Tools
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,vercel,docker" />
-</p>
+
+<div align="center">
+
+
+<img src="https://skillicons.dev/icons?i=vscode,github,figma,vercel,postman,arduino,raspberrypi,aws"/>
+
+
+</div>
+
 
 ---
 
 # 🚀 Featured Projects
 
+
 ## 🌐 CampusGuide
 
-A digital platform designed to improve student experience through:
+A modern digital platform designed to improve student life.
 
-- Campus information management
+Features:
+
+- Campus information system
 - Student communication
-- Clubs and events management
+- Clubs management
+- Events management
 - Digital campus services
 
-**Technologies:**
-React • Next.js • Node.js • Express • PostgreSQL
+
+Stack:
+
 
 ---
 
@@ -87,100 +102,134 @@ Exploring:
 
 - Machine Learning models
 - Data analysis
-- Intelligent automation
-- AI-powered applications
+- Neural networks
+- AI automation
+- Intelligent applications
+
 
 ---
 
-## 🚁 Robotics & Embedded Systems
+## 🚁 Robotics & IoT
 
-Interested in:
+Working on ideas around:
 
-- Drone development
-- IoT systems
-- ESP32 projects
-- Autonomous systems
+- Autonomous drones
+- ESP32 systems
+- Embedded programming
+- Smart devices
+
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
+
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bonheur84&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonheur84&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=bonheur84&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonheur84&layout=compact&theme=tokyonight&hide_border=true"/>
+
 
 </div>
+
 
 ---
 
 # 🔥 Contribution Streak
 
+
 <div align="center">
+
 
 <img src="https://streak-stats.demolab.com?user=bonheur84&theme=tokyonight&hide_border=true"/>
 
+
 </div>
+
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophy
+
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=bonheur84&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=bonheur84&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
 
 </div>
+
 
 ---
 
 # 📈 Activity Graph
 
+
 <div align="center">
+
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bonheur84&theme=tokyo-night&hide_border=true"/>
 
+
 </div>
 
----
-
-# 🌱 Current Goals
-
-- Become an AI Engineer
-- Build impactful software solutions
-- Contribute to Open Source projects
-- Master Machine Learning and Deep Learning
-- Create technology solutions for Africa
 
 ---
 
-# 📫 Connect With Me
+# 🎯 2026 Goals
 
-<p align="center">
+
+✔ Become an AI Engineer  
+✔ Master Deep Learning  
+✔ Build impactful applications  
+✔ Contribute to Open Source  
+✔ Create African technology solutions  
+
+
+---
+
+# 🌎 Connect With Me
+
+
+<div align="center">
+
 
 <a href="https://github.com/bonheur84">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-</p>
+
+</div>
+
 
 ---
 
 # 🐍 Contribution Snake
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/bonheur84/bonheur84/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile
 
-*"Learn. Code. Build. Innovate."*
+<img src="https://raw.githubusercontent.com/bonheur84/bonheur84/output/github-contribution-grid-snake-dark.svg"/>
+
+
+</div>
+
+
+<br>
+
+
+<div align="center">
+
+
+### ⭐ Thanks for visiting my profile
+
+
+**"Code • Learn • Build • Innovate"**
+
 
 </div>
