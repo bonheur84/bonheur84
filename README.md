@@ -123,19 +123,21 @@ Working on ideas around:
 
 # 📊 GitHub Analytics
 
-
 <div align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bonheur84&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=bonheur84&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonheur84&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonheur84&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
+<br>
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bonheur84&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
 ---
 
 # 🔥 Contribution Streak
@@ -158,8 +160,7 @@ Working on ideas around:
 <div align="center">
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=bonheur84&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=bonheur84&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
