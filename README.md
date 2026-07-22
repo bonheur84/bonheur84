@@ -1,71 +1,109 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Bonheur+Nzau;AI+Engineer+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Cybersecurity+Learner;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Bonheur+Nzau;AI+Engineer+Student;Full+Stack+Developer;Machine+Learning+Explorer;Building+Digital+Solutions" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Bonheur Nzau</h1>
+
+<p align="center">
+  <b>Artificial Intelligence Student | Full Stack Developer | Technology Enthusiast</b>
 </p>
 
 ---
 
+## 👨‍💻 About Me
 
-# 👋 Salut !
+🎓 Computer Science Student specialized in Artificial Intelligence
 
-Je suis **Bonheur Nzau**
+🤖 Passionate about Machine Learning, Automation and intelligent systems
 
-🎓 Étudiant en Informatique
+💻 Full Stack Developer building modern web applications
 
-🤖 Passionné par l'Intelligence Artificielle
+🚀 Interested in creating scalable solutions using clean architecture and modern technologies
 
-💻 Full Stack Developer
+🌍 Based in Democratic Republic of Congo 🇨🇩
 
-🚀 Je construis des applications modernes avec Python, React, Next.js et Node.js.
-
-🌍 République Démocratique du Congo 🇨🇩
+📚 Currently learning:
+- Artificial Intelligence
+- Machine Learning
+- Cloud Computing
+- Cybersecurity
+- Software Engineering
 
 ---
 
-# 💻 Stack Technique
+# 🛠️ Tech Stack
 
-### Langages
+## Programming Languages
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript"/>
-
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript" />
 </p>
 
-### Front-end
+## Frontend Development
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
 </p>
 
-### Back-end
+## Backend Development
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
 </p>
 
-### Base de données
+## Databases
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase"/>
-
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
 </p>
 
-### Outils
+## Tools & Environment
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,vercel"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,vercel,docker" />
 </p>
 
 ---
 
-# 📊 Statistiques GitHub
+# 🚀 Featured Projects
+
+## 🌐 CampusGuide
+
+A digital platform designed to improve student experience through:
+
+- Campus information management
+- Student communication
+- Clubs and events management
+- Digital campus services
+
+**Technologies:**
+React • Next.js • Node.js • Express • PostgreSQL
+
+---
+
+## 🤖 Artificial Intelligence Projects
+
+Exploring:
+
+- Machine Learning models
+- Data analysis
+- Intelligent automation
+- AI-powered applications
+
+---
+
+## 🚁 Robotics & Embedded Systems
+
+Interested in:
+
+- Drone development
+- IoT systems
+- ESP32 projects
+- Autonomous systems
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -77,7 +115,7 @@ Je suis **Bonheur Nzau**
 
 ---
 
-# 🔥 Série de contributions
+# 🔥 Contribution Streak
 
 <div align="center">
 
@@ -87,7 +125,7 @@ Je suis **Bonheur Nzau**
 
 ---
 
-# 🏆 Trophées GitHub
+# 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -97,7 +135,7 @@ Je suis **Bonheur Nzau**
 
 ---
 
-# 📈 Activité
+# 📈 Activity Graph
 
 <div align="center">
 
@@ -107,21 +145,17 @@ Je suis **Bonheur Nzau**
 
 ---
 
-# 🚀 Projets principaux
+# 🌱 Current Goals
 
-✨ CampusGuide
-
-🤖 Intelligence Artificielle
-
-🌐 Développement Web
-
-📱 Applications Full Stack
-
-🚁 Robotique & Drones
+- Become an AI Engineer
+- Build impactful software solutions
+- Contribute to Open Source projects
+- Master Machine Learning and Deep Learning
+- Create technology solutions for Africa
 
 ---
 
-# 🌍 Me retrouver
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -133,7 +167,7 @@ Je suis **Bonheur Nzau**
 
 ---
 
-# 🐍 Mes contributions
+# 🐍 Contribution Snake
 
 <p align="center">
 
@@ -145,8 +179,8 @@ Je suis **Bonheur Nzau**
 
 <div align="center">
 
-### ⭐ Merci de visiter mon profil !
+## ⭐ Thanks for visiting my profile
 
-*"Code. Learn. Build. Improve."*
+*"Learn. Code. Build. Innovate."*
 
 </div>
