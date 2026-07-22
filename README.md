@@ -1,12 +1,10 @@
-<div align="center">
+<p align="center">
+<img src="images/banner.png" width="100%">
+</p>
 
-# 👋 Salut, je suis Bonheur Nzau
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Étudiant+en+Informatique;Développeur+Full+Stack;Passionné+par+l'Intelligence+Artificielle;Python+•+React+•+Next.js+•+Node.js;Bienvenue+sur+mon+profil+GitHub!" />
-
-<img src="https://komarev.com/ghpvc/?username=bonheur84&label=Visiteurs&color=0e75b6&style=for-the-badge" />
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Bonheur+Nzau;AI+Engineer+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Cybersecurity+Learner;Open+Source+Contributor" />
+</p>
 
 ---
 
