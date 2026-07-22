@@ -1,91 +1,89 @@
-<div align="center">
+<p align="center">
+<img src="images/banner.png" width="100%">
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Bonheur+Nzau;AI+Engineer+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Cybersecurity+Learner;Open+Source+Contributor" />
+</p>
+<img align="right" width="250" src="images/profile.png"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00d4ff&height=250&section=header&text=BONHEUR%20NZAU&fontSize=70&fontColor=ffffff&animation=fadeIn"/>
+# 👋 Salut !
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=700&color=00FFFF&center=true&vCenter=true&width=800&lines=AI+Engineer+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Python+Developer;Open+Source+Builder"/>
+Je suis **Bonheur Nzau**
 
-<img src="https://komarev.com/ghpvc/?username=bonheur84&style=for-the-badge&color=00ffff"/>
+🎓 Étudiant en Informatique
 
-</div>
+🤖 Passionné par l'Intelligence Artificielle
 
-# 👨‍💻 BONHEUR NZAU
+💻 Full Stack Developer
 
-### AI Engineer Student | Full Stack Developer | Computer Science Student
+🚀 Je construis des applications modernes avec Python, React, Next.js et Node.js.
 
-🇨🇩 Democratic Republic of Congo
+🌍 République Démocratique du Congo 🇨🇩
+<p align="center">
 
-> Code • Learn • Build • Innovate
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,react,nextjs,nodejs,express,postgres,mysql,supabase,mongodb,docker,git,github,linux,vscode,figma,tailwind,vercel,tensorflow,pytorch"/>
 
+</p>
+<p align="center">
 
----
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=bonheur84&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## 🧠 About Me
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonheur84&layout=compact&theme=tokyonight&hide_border=true"/>
 
-```yaml
-Name: Bonheur Nzau
-Role:
- - AI Engineer Student
- - Full Stack Developer
- - Machine Learning Enthusiast
+</p>
+<p align="center">
 
-Focus:
- - Artificial Intelligence
- - Software Engineering
- - Robotics
- - Web Development
- - Open Source
+<img src="https://streak-stats.demolab.com?user=bonheur84&theme=tokyonight&hide_border=true"/>
 
-Goal:
- Build intelligent systems that solve real-world problems.
-🤖 Artificial Intelligence
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/> </div>
+</p>
+<p align="center">
 
-Technologies:
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bonheur84&theme=tokyo-night&hide_border=true"/>
 
-Machine Learning
-Deep Learning
-Neural Networks
-Computer Vision
-Natural Language Processing
-Generative AI
-Large Language Models
-💻 Full Stack Development
-<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express"/> </div>
+</p>
+<p align="center">
 
-Frontend:
+<img src="https://github-profile-trophy.vercel.app/?username=bonheur84&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
-HTML5
-CSS3
-JavaScript
-TypeScript
-React
-Next.js
-Tailwind CSS
+</p>
+<p align="center">
 
-Backend:
+<img src="https://komarev.com/ghpvc/?username=bonheur84&label=Visitors&color=0e75b6&style=for-the-badge"/>
 
-Node.js
-Express.js
-FastAPI
-Flask
+</p>
+| Projet         | Description              | Technologies        |
+| -------------- | ------------------------ | ------------------- |
+| 🚀 CampusGuide | Plateforme universitaire | Next.js, PostgreSQL |
+| 🤖 AI Chatbot  | Chatbot IA               | Python              |
+| 🌐 Portfolio   | Portfolio personnel      | React               |
+| 📱 Mobile App  | Application mobile       | Flutter             |
+█████████████████████░░░░ Python          90%
 
-Databases:
+███████████████████░░░░░░ React           80%
 
-<div align="center"> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase"/> </div>
-🛠️ Tools
-<div align="center"> <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,figma,vercel"/> </div>
-⚡ Programming Languages
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript"/> </div>
-📊 GitHub Analytics
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=bonheur84&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonheur84&layout=compact&theme=tokyonight&hide_border=true"/> </div>
-🔥 GitHub Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=bonheur84&theme=tokyonight&hide_border=true"/> </div>
-🏆 GitHub Trophy
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=bonheur84&theme=tokyonight&no-frame=true"/> </div>
-📈 Activity Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=bonheur84&theme=tokyo-night&hide_border=true"/> </div>
-🐍 Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/bonheur84/bonheur84/output/github-contribution-grid-snake-dark.svg"/> </div> ```
+████████████████░░░░░░░░ Next.js          75%
 
-Je continue juste après avec la fin du même README :
-projets + WakaTime + LeetCode + Codewars + certifications + footer.
+█████████████░░░░░░░░░░ Machine Learning  65%
+
+██████████░░░░░░░░░░░░ Deep Learning      50%
+> "Code. Learn. Build. Repeat."
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/bonheur84/bonheur84/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+<p align="center">
+
+<a href="https://github.com/bonheur84">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="#">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="#">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
