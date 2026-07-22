@@ -12,11 +12,21 @@
 
 # 🚀 À propos de moi
 
-🎓 Étudiant en Informatique (IA)
+<img align="right" width="250" src="images/profile.png"/>
 
-💡 Passionné par l'Intelligence Artificielle, le Développement Web, les Systèmes Embarqués et la Cybersécurité.
+# 👋 Salut !
 
-🎯 Mon objectif est de devenir Ingénieur en Intelligence Artificielle et de développer des solutions innovantes qui améliorent le quotidien.
+Je suis **Bonheur Nzau**
+
+🎓 Étudiant en Informatique
+
+🤖 Passionné par l'Intelligence Artificielle
+
+💻 Full Stack Developer
+
+🚀 Je construis des applications modernes avec Python, React, Next.js et Node.js.
+
+🌍 République Démocratique du Congo 🇨🇩
 
 ---
 
