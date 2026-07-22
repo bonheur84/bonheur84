@@ -1,16 +1,13 @@
 <p align="center">
-<img src="images/banner.png" width="100%">
-</p>
-
-<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Bonheur+Nzau;AI+Engineer+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Cybersecurity+Learner;Open+Source+Contributor" />
 </p>
 
 ---
 
-# 🚀 À propos de moi
 
-<img align="right" width="250" src="images/profile.png"/>
+
+<img align="right" width="250" src="<img width="958" height="960" alt="20250712_170901" src="https://github.com/user-attachments/assets/4d80fb61-56e9-47ba-9901-33c8ef4a0096" />
+"/>
 
 # 👋 Salut !
 
