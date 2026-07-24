@@ -75,23 +75,6 @@ Building: Full-stack applications
 Exploring: Cloud deployment
 Contributing: Open source web tools
 ```
-
----
-
-## 💼 Experience
-
-<div align="center">
-
-### 🎓 Education Timeline
-
-| Period | Institution | Role | Focus |
-|--------|-------------|------|-------|
-| 2023 - Present | University of Kinshasa | CS Student | Web Development |
-| 2022 - 2023 | Tech Bootcamp | Full Stack Dev | Web Development |
-| 2021 - 2022 | Self-Taught | Developer | Programming Fundamentals |
-
-</div>
-
 ---
 
 ## 🎯 Skills Breakdown
@@ -141,14 +124,6 @@ Contributing: Open source web tools
 - 🎪 Clubs & events management
 - 📚 Digital campus services
 - 📊 Analytics dashboard
-
-#### 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,postgres,supabase&perline=6" alt="Tech Stack" />
-
-#### 🔗 Links
-[🔗 Live Demo](https://campusguide-demo.com) • [📦 GitHub](https://github.com/bonheur84/campusguide) • [📖 Documentation](https://docs.campusguide.com)
-
----
 
 ### 🤖 Task Automation System
 <img src="https://img.shields.io/badge/Automation_System-⚡-FF8E53?style=for-the-badge&logo=python&logoColor=white" alt="Automation System" />
