@@ -1,20 +1,27 @@
-name: Generate Contribution Snake
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # Runs every day at midnight
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      
-      - uses: lowlighter/metrics@latest
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
-          plugin_snake: yes
-          plugin_snake_day: yes
-          plugin_snake_color: green
+          github_user_name: ${{ github.repository_owner }}
+          svg_out_path: github-contribution-grid-snake.svg
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add github-contribution-grid-snake.svg
+          git commit -m "Update contribution snake" || echo "No changes to commit"
+          git push
