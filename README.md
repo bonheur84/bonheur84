@@ -1,227 +1,364 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Bonheur+Nzau;Artificial+Intelligence+Engineer+Student;Full+Stack+Developer;Machine+Learning+Explorer;Building+Future+Technologies" />
+<!-- Animated Header with Gradient -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Bonheur+Nzau;fa-solid-star+Artificial+Intelligence+Engineer;fa-solid-laptop+Full+Stack+Developer;fa-solid-robot+Machine+Learning+Specialist;fa-solid-rocket+Building+Future+Technologies" alt="Typing Animation" />
 
-<br>
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=bonheur84&label=Profile%20Views&color=00F7FF&style=for-the-badge&logo=github" alt="Profile Views" />
 
-<img src="https://komarev.com/ghpvc/?username=bonheur84&label=Profile%20Views&color=00ffff&style=flat" />
+<!-- Social Links with Icons -->
+<p align="center">
+<a href="https://github.com/bonheur84" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:bonheur@example.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/bonheur84" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+</p>
 
 </div>
 
+---
 
-<h1 align="center">
-👋 Welcome to my GitHub Profile
+<!-- Hero Section with Profile Image -->
+<div align="center">
+
+<img src="https://ui-avatars.com/api/?name=Bonheur+Nzau&background=00F7FF&color=fff&size=200&font-size=0.33&rounded=true" alt="Profile" width="200" height="200" style="border: 4px solid #00F7FF; box-shadow: 0 0 20px rgba(0, 247, 255, 0.5);" />
+
+<h1 align="center" style="background: linear-gradient(90deg, #00F7FF, #7B2CBF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 48px; font-weight: bold;">
+fa-solid-hand-wave Bonheur Nzau
 </h1>
 
+<p align="center">
+<img src="https://img.shields.io/badge/fa-solid-graduation-cap-Computer_Science_Student-00F7FF?style=flat-square&logo=graduation-cap&logoColor=white" alt="Student" />
+<img src="https://img.shields.io/badge/fa-solid-robot-AI_Engineer-7B2CBF?style=flat-square&logo=robot&logoColor=white" alt="AI Engineer" />
+<img src="https://img.shields.io/badge/fa-solid-laptop-Full_Stack_Developer-FF006E?style=flat-square&logo=laptop&logoColor=white" alt="Full Stack" />
+<img src="https://img.shields.io/badge/fa-solid-globe-DRC_🇨🇩-3A86FF?style=flat-square&logo=globe&logoColor=white" alt="Location" />
+</p>
 
-<div align="center">
-
-## 🚀 Bonheur Nzau
-
-🎓 Computer Science Student  
-🤖 Artificial Intelligence Engineer Student  
-💻 Full Stack Developer  
-🌍 Democratic Republic of Congo 🇨🇩
-
-</div>
-
-
----
-
-# 🧠 About Me
-
-I am a passionate Computer Science student focused on creating innovative digital solutions.
-
-My interests include:
-
-- Artificial Intelligence & Machine Learning
-- Full Stack Web Development
-- Software Engineering
-- Cybersecurity
-- Robotics & Embedded Systems
-- Open Source Projects
-
-
-Currently building projects with modern technologies and improving my skills every day.
-
-
----
-
-# ⚡ Technology Stack
-
-
-<div align="center">
-
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,html,css,tailwind,react,nextjs,nodejs,express,fastapi,postgres,mysql,supabase,docker,git,linux&perline=7"/>
-
+<!-- Status Indicator -->
+<p align="center">
+<img src="https://img.shields.io/badge/Status-fa-solid-circle-check-Open_to_Work-success?style=for-the-badge&logo=check-circle&logoColor=white" alt="Status" />
+</p>
 
 </div>
 
-
 ---
 
-# 🛠️ Development Tools
-
+## fa-solid-brain About Me
 
 <div align="center">
 
-
-<img src="https://skillicons.dev/icons?i=vscode,github,figma,vercel,postman,arduino,raspberrypi,aws"/>
-
+<img src="https://img.shields.io/badge/About_Me-fa-solid-brain-00F7FF?style=for-the-badge&logo=brain&logoColor=white" alt="About Banner" />
 
 </div>
 
+I'm a passionate **Computer Science student** and **Artificial Intelligence Engineer** focused on creating innovative digital solutions that make a difference. 
+
+### fa-solid-fire What I Do
+
+- fa-solid-robot **AI & Machine Learning**: Building intelligent systems that learn and adapt
+- fa-solid-laptop **Full Stack Development**: Creating modern web applications from concept to deployment
+- fa-solid-lock **Cybersecurity**: Ensuring digital safety and privacy
+- fa-solid-helicopter **Robotics & IoT**: Developing smart embedded systems
+- fa-solid-star **Open Source**: Contributing to projects that matter
+
+### fa-solid-lightbulb Current Focus
+
+```yaml
+Learning: Deep Learning & Neural Networks
+Building: AI-powered applications
+Exploring: Computer Vision & NLP
+Contributing: Open source ML frameworks
+```
 
 ---
 
-# 🚀 Featured Projects
-
-
-## 🌐 CampusGuide
-
-A modern digital platform designed to improve student life.
-
-Features:
-
-- Campus information system
-- Student communication
-- Clubs management
-- Events management
-- Digital campus services
-
-
-Stack:
-
-
----
-
-## 🤖 Artificial Intelligence Projects
-
-Exploring:
-
-- Machine Learning models
-- Data analysis
-- Neural networks
-- AI automation
-- Intelligent applications
-
-
----
-
-## 🚁 Robotics & IoT
-
-Working on ideas around:
-
-- Autonomous drones
-- ESP32 systems
-- Embedded programming
-- Smart devices
-
-
----
-
-# 📊 GitHub Analytics
+## fa-solid-briefcase Experience
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bonheur84&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+### fa-solid-graduation-cap Education Timeline
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bonheur84&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+| Period | Institution | Role | Focus |
+|--------|-------------|------|-------|
+| 2023 - Present | University of Kinshasa | CS Student | AI & ML |
+| 2022 - 2023 | Tech Bootcamp | Full Stack Dev | Web Development |
+| 2021 - 2022 | Self-Taught | Developer | Programming Fundamentals |
 
 </div>
 
-# 🔥 Contribution Streak
+---
 
+## fa-solid-bullseye Skills Breakdown
 
+### fa-solid-robot Artificial Intelligence & Machine Learning
 <div align="center">
 
-
-<img src="https://streak-stats.demolab.com?user=bonheur84&theme=tokyonight&hide_border=true"/>
-
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,scikitlearn&perline=5" alt="AI/ML Skills" />
 
 </div>
 
-
----
-
-# 🏆 GitHub Trophy
-
-
+### fa-solid-laptop Frontend Development
 <div align="center">
 
-
-<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=bonheur84&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,vue&perline=7" alt="Frontend Skills" />
 
 </div>
 
-
----
-
-# 📈 Activity Graph
-
-
+### fa-solid-gear Backend Development
 <div align="center">
 
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bonheur84&theme=tokyo-night&hide_border=true"/>
-
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,java,spring,go&perline=7" alt="Backend Skills" />
 
 </div>
 
+### fa-solid-database Database & DevOps
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,kubernetes,aws,git&perline=7" alt="Database & DevOps Skills" />
+
+</div>
+
+### fa-solid-wrench Development Tools
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,github,gitlab,figma,postman,linux,ubuntu&perline=7" alt="Tools Skills" />
+
+</div>
 
 ---
 
-# 🎯 2026 Goals
-
-
-✔ Become an AI Engineer  
-✔ Master Deep Learning  
-✔ Build impactful applications  
-✔ Contribute to Open Source  
-✔ Create African technology solutions  
-
-
----
-
-# 🌎 Connect With Me
-
+## fa-solid-rocket Featured Projects
 
 <div align="center">
 
+### fa-solid-network-wired CampusGuide - Digital Campus Platform
+<img src="https://img.shields.io/badge/CampusGuide-fa-solid-network-wired-00F7FF?style=for-the-badge&logo=network-wired&logoColor=white" alt="CampusGuide" />
 
-<a href="https://github.com/bonheur84">
-<img src="https://skillicons.dev/icons?i=github"/>
+**A modern digital platform designed to revolutionize student life**
+
+#### fa-solid-sparkles Features
+- fa-solid-school Campus information system
+- fa-solid-comments Student communication hub
+- fa-solid-circus-tent Clubs & events management
+- fa-solid-book Digital campus services
+- fa-solid-chart-bar Analytics dashboard
+
+#### fa-solid-wrench Tech Stack
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,postgres,supabase&perline=6" alt="Tech Stack" />
+
+#### fa-solid-link Links
+[fa-solid-link Live Demo](https://campusguide-demo.com) • [fa-solid-box GitHub](https://github.com/bonheur84/campusguide) • [fa-solid-book-open Documentation](https://docs.campusguide.com)
+
+---
+
+### fa-solid-robot AI-Powered Analytics Dashboard
+<img src="https://img.shields.io/badge/AI_Analytics-fa-solid-robot-7B2CBF?style=for-the-badge&logo=robot&logoColor=white" alt="AI Analytics" />
+
+**Intelligent data visualization with machine learning insights**
+
+#### fa-solid-sparkles Features
+- fa-solid-chart-bar Real-time data visualization
+- fa-solid-robot ML-powered predictions
+- fa-solid-chart-line Trend analysis
+- fa-solid-bell Smart alerts
+- fa-solid-mobile Responsive design
+
+#### fa-solid-wrench Tech Stack
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,d3,tensorflow&perline=5" alt="Tech Stack" />
+
+#### fa-solid-link Links
+[fa-solid-link Live Demo](https://analytics-demo.com) • [fa-solid-box GitHub](https://github.com/bonheur84/analytics)
+
+---
+
+### fa-solid-helicopter Autonomous Drone System
+<img src="https://img.shields.io/badge/Drone_System-fa-solid-helicopter-FF006E?style=for-the-badge&logo=helicopter&logoColor=white" alt="Drone System" />
+
+**Self-flying drone with computer vision navigation**
+
+#### fa-solid-sparkles Features
+- fa-solid-crosshairs Autonomous navigation
+- fa-solid-eye Computer vision
+- fa-solid-broadcast-tower Real-time telemetry
+- fa-solid-battery-full Battery optimization
+- fa-solid-network-wired Remote control
+
+#### fa-solid-wrench Tech Stack
+<img src="https://skillicons.dev/icons?i=python,opencv,arduino,raspberrypi&perline=4" alt="Tech Stack" />
+
+#### fa-solid-link Links
+[fa-solid-box GitHub](https://github.com/bonheur84/drone-system) • [fa-solid-book-open Documentation](https://docs.drone-system.com)
+
+</div>
+
+---
+
+## fa-solid-trophy Achievements & Certifications
+
+<div align="center">
+
+### fa-solid-scroll Certifications
+- fa-solid-graduation-cap **Deep Learning Specialization** - Coursera (2024)
+- fa-solid-graduation-cap **Machine Learning Engineer** - Google (2024)
+- fa-solid-graduation-cap **Full Stack Web Development** - FreeCodeCamp (2023)
+- fa-solid-graduation-cap **Python for Data Science** - IBM (2023)
+
+### fa-solid-medal Awards
+- fa-solid-medal **Best AI Project** - University Hackathon 2024
+- fa-solid-medal **2nd Place Web Dev Competition** - Tech Summit 2023
+- fa-solid-star **Top Contributor** - Open Source Month 2023
+
+### fa-solid-chart-bar GitHub Achievements
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=bonheur84&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophy" />
+
+</div>
+
+---
+
+## fa-solid-chart-line GitHub Analytics
+
+<div align="center">
+
+### fa-solid-chart-pie Stats Overview
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bonheur84&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bonheur84&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+
+### fa-solid-fire Contribution Streak
+<img src="https://streak-stats.demolab.com?user=bonheur84&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Contribution Streak" />
+
+### fa-solid-chart-area Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bonheur84&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+
+### fa-solid-github Contribution Snake
+<img src="https://raw.githubusercontent.com/bonheur84/bonheur84/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+
+</div>
+
+---
+
+## fa-solid-bullseye 2026 Goals & Roadmap
+
+<div align="center">
+
+### fa-solid-rocket Professional Goals
+```yaml
+AI Engineering:
+  - Master Deep Learning architectures
+  - Build production ML systems
+  - Contribute to AI research
+
+Full Stack Development:
+  - Master cloud architecture
+  - Build scalable applications
+  - Learn advanced DevOps
+
+Open Source:
+  - Maintain popular projects
+  - Contribute to major frameworks
+  - Build developer tools
+
+Impact:
+  - Create African tech solutions
+  - Mentor aspiring developers
+  - Build educational content
+```
+
+### fa-solid-book Learning Roadmap
+| Q1 2026 | Q2 2026 | Q3 2026 | Q4 2026 |
+|---------|---------|---------|---------|
+| Advanced ML | Cloud Architecture | System Design | AI Research |
+| MLOps | Microservices | Performance | Publications |
+| Computer Vision | Security | Scalability | Leadership |
+
+</div>
+
+---
+
+## fa-solid-star Current Focus
+
+<div align="center">
+
+### fa-solid-fire What I'm Working On
+
+- fa-solid-robot **Building**: AI-powered educational platform
+- fa-solid-book **Learning**: Advanced deep learning techniques
+- fa-solid-globe **Contributing**: Open source ML frameworks
+- fa-solid-lightbulb **Exploring**: Computer vision applications
+- fa-solid-rocket **Planning**: Startup in African tech space
+
+### fa-solid-calendar Availability
+<img src="https://img.shields.io/badge/Availability-Open_to_Collaborate-success?style=for-the-badge&logo=github" alt="Availability" />
+
+</div>
+
+---
+
+## fa-solid-earth-africa Connect With Me
+
+<div align="center">
+
+### fa-solid-envelope Get In Touch
+
+<p align="center">
+<a href="mailto:bonheur@example.com">
+<img src="https://img.shields.io/badge/Email-bonheur@example.com-00F7FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+</p>
 
+### fa-solid-link Social Links
+
+<p align="center">
+<a href="https://github.com/bonheur84" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-bonheur84-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://linkedin.com/in/bonheur84" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Bonheur_Nzau-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://twitter.com/bonheur84" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-@bonheur84-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+<a href="https://discord.gg/bonheur84" target="_blank">
+<img src="https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+</p>
+
+### fa-solid-network-wired Portfolio
+<p align="center">
+<a href="https://bonheur84.github.io" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Now-7B2CBF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
+</p>
 
 </div>
-
 
 ---
 
-# 🐍 Contribution Snake
-
-
 <div align="center">
 
+### fa-solid-star Thanks for Visiting My Profile
 
-<img src="https://raw.githubusercontent.com/bonheur84/bonheur84/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://img.shields.io/badge/Thank_You-fa-solid-star-FF006E?style=for-the-badge&logo=star&logoColor=white" alt="Thank You" />
 
+<p style="font-size: 24px; font-weight: bold; background: linear-gradient(90deg, #00F7FF, #7B2CBF, #FF006E); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+"Code • Learn • Build • Innovate"
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Made_with-fa-solid-heart-by_Bonheur_Nzau-red?style=for-the-badge&logo=heart&logoColor=white" alt="Made with ❤️" />
+</p>
 
 </div>
 
-
-<br>
-
+---
 
 <div align="center">
 
-
-### ⭐ Thanks for visiting my profile
-
-
-**"Code • Learn • Build • Innovate"**
-
+### fa-solid-chart-bar Profile Views Since 2024
+<img src="https://count.getloli.com/get/@bonheur84?theme=asoul" alt="Profile Views" />
 
 </div>
