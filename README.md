@@ -91,8 +91,8 @@ Contributing: Open source web tools
 ### Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bonheur84&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 
-### Contribution Snake
-<img src="https://raw.githubusercontent.com/bonheur84/bonheur84/main/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+### Contribution Graph
+<img src="https://ghchart.rshah.org/bonheur84" alt="GitHub Contribution Graph" />
 
 </div>
 
