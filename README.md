@@ -75,23 +75,6 @@ Building: Full-stack applications
 Exploring: Cloud deployment
 Contributing: Open source web tools
 ```
-
----
-
-## 💼 Experience
-
-<div align="center">
-
-### 🎓 Education Timeline
-
-| Period | Institution | Role | Focus |
-|--------|-------------|------|-------|
-| 2023 - Present | University of Kinshasa | CS Student | Web Development |
-| 2022 - 2023 | Tech Bootcamp | Full Stack Dev | Web Development |
-| 2021 - 2022 | Self-Taught | Developer | Programming Fundamentals |
-
-</div>
-
 ---
 
 ## 🎯 Skills Breakdown
@@ -121,94 +104,6 @@ Contributing: Open source web tools
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode,postman&perline=6" alt="Database & Tools Skills" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🌐 CampusGuide - Digital Campus Platform
-<img src="https://img.shields.io/badge/CampusGuide-🌐-FF6B6B?style=for-the-badge&logo=school&logoColor=white" alt="CampusGuide" />
-
-**A modern digital platform designed to revolutionize student life**
-
-#### ✨ Features
-- 🏫 Campus information system
-- 💬 Student communication hub
-- 🎪 Clubs & events management
-- 📚 Digital campus services
-- 📊 Analytics dashboard
-
-#### 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,postgres,supabase&perline=6" alt="Tech Stack" />
-
-#### 🔗 Links
-[🔗 Live Demo](https://campusguide-demo.com) • [📦 GitHub](https://github.com/bonheur84/campusguide) • [📖 Documentation](https://docs.campusguide.com)
-
----
-
-### 🤖 Task Automation System
-<img src="https://img.shields.io/badge/Automation_System-⚡-FF8E53?style=for-the-badge&logo=python&logoColor=white" alt="Automation System" />
-
-**PowerShell and Python automation scripts for workflow optimization**
-
-#### ✨ Features
-- 📊 Automated data processing
-- 🤖 Script scheduling
-- 📈 System monitoring
-- 🔔 Automated alerts
-- 📱 Cross-platform support
-
-#### 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=python,powershell,bash,linux&perline=4" alt="Tech Stack" />
-
-#### 🔗 Links
-[📦 GitHub](https://github.com/bonheur84/automation-system) • [📖 Documentation](https://docs.automation-system.com)
-
----
-
-### 🚁 Web Portfolio Template
-<img src="https://img.shields.io/badge/Portfolio_Template-🚁-FF6B9D?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Template" />
-
-**Modern responsive portfolio template for developers**
-
-#### ✨ Features
-- 🎯 Responsive design
-- 👁️ Dark/Light mode
-- 📡 Contact form integration
-- 🔋 Performance optimized
-- 🌐 SEO friendly
-
-#### 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vercel&perline=4" alt="Tech Stack" />
-
-#### 🔗 Links
-[🔗 Live Demo](https://portfolio-demo.com) • [📦 GitHub](https://github.com/bonheur84/portfolio-template)
-
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-### 📜 Certifications
-- 🎓 **Full Stack Web Development** - FreeCodeCamp (2024)
-- 🎓 **Python for Everybody** - Coursera (2024)
-- 🎓 **Linux System Administration** - Linux Foundation (2023)
-- 🎓 **PowerShell Automation** - Microsoft (2023)
-
-### 🏅 Awards
-- 🥇 **Best Web Project** - University Hackathon 2024
-- 🥈 **2nd Place Automation Challenge** - Tech Summit 2023
-- ⭐ **Top Contributor** - Open Source Month 2023
-
-### 📊 GitHub Achievements
-<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=bonheur84&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophy" />
 
 </div>
 
@@ -262,13 +157,6 @@ Impact:
   - Build educational content
 ```
 
-### 📚 Learning Roadmap
-| Q1 2026 | Q2 2026 | Q3 2026 | Q4 2026 |
-|---------|---------|---------|---------|
-| Advanced React | Cloud Architecture | System Design | Leadership |
-| Python Mastery | Microservices | Performance | Mentoring |
-| DevOps | Security | Scalability | Consulting |
-
 </div>
 
 ---
@@ -299,7 +187,7 @@ Impact:
 ### 📧 Get In Touch
 
 <p align="center">
-<a href="mailto:bonheur@example.com">
+<a href="nzaubonheur84@gmail.com">
 <img src="https://img.shields.io/badge/Email-bonheur@example.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 </p>
@@ -310,21 +198,18 @@ Impact:
 <a href="https://github.com/bonheur84" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-bonheur84-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://linkedin.com/in/bonheur84" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Bonheur_Nzau-FF8E53?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://pinterest.com/in/nzaubonheur84" target="_blank">
+<img src="https://img.shields.io/badge/Pinterest-Bonheur_Nzau-FF8E53?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" />
 </a>
-<a href="https://twitter.com/bonheur84" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-@bonheur84-FF6B9D?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-<a href="https://discord.gg/bonheur84" target="_blank">
-<img src="https://img.shields.io/badge/Discord-Join_Community-9B59B6?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+<a href="https://reddit.com/OpppositeMinimum3599" target="_blank">
+<img src="https://img.shields.io/badge/Reddit-@bonheur84-FF6B9D?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
 </a>
 </p>
 
 ### 🌐 Portfolio
 <p align="center">
 <a href="https://bonheur84.github.io" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Now-4ECDC4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+<img src="portofolio-bonheur.vercel.app" alt="Portfolio" />
 </a>
 </p>
 
