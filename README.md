@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header with Gradient -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&pause=1000&color=FF6B6B&center=true&vCenter=true&width=900&lines=Bonheur+Nzau;✨+Artificial+Intelligence+Engineer;💻+Full+Stack+Developer;🤖+Machine+Learning+Specialist;🚀+Building+Future+Technologies" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&pause=1000&color=FF6B6B&center=true&vCenter=true&width=900&lines=Bonheur+Nzau;✨+Web+Developer;💻+Full+Stack+Developer;🐍+Python+Developer;⚡+Automation+Specialist;🚀+Building+Modern+Applications" alt="Typing Animation" />
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=bonheur84&label=Profile%20Views&color=FF6B6B&style=for-the-badge&logo=github" alt="Profile Views" />
@@ -34,9 +34,10 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/🎓-Computer_Science_Student-FF6B6B?style=flat-square" alt="Student" />
-<img src="https://img.shields.io/badge/🤖-AI_Engineer-FF8E53?style=flat-square" alt="AI Engineer" />
-<img src="https://img.shields.io/badge/💻-Full_Stack_Developer-FF6B9D?style=flat-square" alt="Full Stack" />
-<img src="https://img.shields.io/badge/🌍-DRC_🇨🇩-9B59B6?style=flat-square" alt="Location" />
+<img src="https://img.shields.io/badge/💻-Web_Developer-FF8E53?style=flat-square" alt="Web Developer" />
+<img src="https://img.shields.io/badge/�-Python_Developer-FF6B9D?style=flat-square" alt="Python Developer" />
+<img src="https://img.shields.io/badge/⚡-Automation_Specialist-9B59B6?style=flat-square" alt="Automation" />
+<img src="https://img.shields.io/badge/🌍-DRC_🇨🇩-4ECDC4?style=flat-square" alt="Location" />
 </p>
 
 <!-- Status Indicator -->
@@ -56,23 +57,23 @@
 
 </div>
 
-I'm a passionate **Computer Science student** and **Artificial Intelligence Engineer** focused on creating innovative digital solutions that make a difference. 
+I'm a passionate **Computer Science student** and **Web Developer** focused on creating modern digital solutions and automating workflows.
 
 ### 🔥 What I Do
 
-- 🤖 **AI & Machine Learning**: Building intelligent systems that learn and adapt
-- 💻 **Full Stack Development**: Creating modern web applications from concept to deployment
-- 🔒 **Cybersecurity**: Ensuring digital safety and privacy
-- 🚁 **Robotics & IoT**: Developing smart embedded systems
-- 🌟 **Open Source**: Contributing to projects that matter
+- 💻 **Web Development**: Building modern web applications from concept to deployment
+- � **Python Development**: Creating scripts and applications with Python
+- ⚡ **Automation**: PowerShell, CMD, and Linux/Bash scripting for workflow automation
+- � **System Administration**: Linux server management and configuration
+- 🌟 **Open Source**: Contributing to web development projects
 
 ### 💡 Current Focus
 
 ```yaml
-Learning: Deep Learning & Neural Networks
-Building: AI-powered applications
-Exploring: Computer Vision & NLP
-Contributing: Open source ML frameworks
+Learning: Advanced web frameworks
+Building: Full-stack applications
+Exploring: Cloud deployment
+Contributing: Open source web tools
 ```
 
 ---
@@ -85,7 +86,7 @@ Contributing: Open source ML frameworks
 
 | Period | Institution | Role | Focus |
 |--------|-------------|------|-------|
-| 2023 - Present | University of Kinshasa | CS Student | AI & ML |
+| 2023 - Present | University of Kinshasa | CS Student | Web Development |
 | 2022 - 2023 | Tech Bootcamp | Full Stack Dev | Web Development |
 | 2021 - 2022 | Self-Taught | Developer | Programming Fundamentals |
 
@@ -95,38 +96,31 @@ Contributing: Open source ML frameworks
 
 ## 🎯 Skills Breakdown
 
-### 🤖 Artificial Intelligence & Machine Learning
+### 💻 Web Development
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,scikitlearn&perline=5" alt="AI/ML Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,nodejs,express&perline=7" alt="Web Dev Skills" />
 
 </div>
 
-### 💻 Frontend Development
+### 🐍 Python Development
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,vue&perline=7" alt="Frontend Skills" />
+<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,pandas&perline=5" alt="Python Skills" />
 
 </div>
 
-### ⚙️ Backend Development
+### ⚡ Automation & Scripting
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,java,spring,go&perline=7" alt="Backend Skills" />
+<img src="https://skillicons.dev/icons?i=powershell,bash,linux,ubuntu,windows&perline=5" alt="Automation Skills" />
 
 </div>
 
-### 🗄️ Database & DevOps
+### �️ Database & Tools
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,kubernetes,aws,git&perline=7" alt="Database & DevOps Skills" />
-
-</div>
-
-### 🛠️ Development Tools
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,github,gitlab,figma,postman,linux,ubuntu&perline=7" alt="Tools Skills" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode,postman&perline=6" alt="Database & Tools Skills" />
 
 </div>
 
@@ -156,43 +150,43 @@ Contributing: Open source ML frameworks
 
 ---
 
-### 🤖 AI-Powered Analytics Dashboard
-<img src="https://img.shields.io/badge/AI_Analytics-🤖-FF8E53?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI Analytics" />
+### 🤖 Task Automation System
+<img src="https://img.shields.io/badge/Automation_System-⚡-FF8E53?style=for-the-badge&logo=python&logoColor=white" alt="Automation System" />
 
-**Intelligent data visualization with machine learning insights**
+**PowerShell and Python automation scripts for workflow optimization**
 
 #### ✨ Features
-- 📊 Real-time data visualization
-- 🤖 ML-powered predictions
-- 📈 Trend analysis
-- 🔔 Smart alerts
-- 📱 Responsive design
+- 📊 Automated data processing
+- 🤖 Script scheduling
+- 📈 System monitoring
+- 🔔 Automated alerts
+- 📱 Cross-platform support
 
 #### 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,d3,tensorflow&perline=5" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=python,powershell,bash,linux&perline=4" alt="Tech Stack" />
 
 #### 🔗 Links
-[🔗 Live Demo](https://analytics-demo.com) • [📦 GitHub](https://github.com/bonheur84/analytics)
+[📦 GitHub](https://github.com/bonheur84/automation-system) • [📖 Documentation](https://docs.automation-system.com)
 
 ---
 
-### 🚁 Autonomous Drone System
-<img src="https://img.shields.io/badge/Drone_System-🚁-FF6B9D?style=for-the-badge&logo=drone&logoColor=white" alt="Drone System" />
+### 🚁 Web Portfolio Template
+<img src="https://img.shields.io/badge/Portfolio_Template-🚁-FF6B9D?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Template" />
 
-**Self-flying drone with computer vision navigation**
+**Modern responsive portfolio template for developers**
 
 #### ✨ Features
-- 🎯 Autonomous navigation
-- 👁️ Computer vision
-- 📡 Real-time telemetry
-- 🔋 Battery optimization
-- 🌐 Remote control
+- 🎯 Responsive design
+- 👁️ Dark/Light mode
+- 📡 Contact form integration
+- 🔋 Performance optimized
+- 🌐 SEO friendly
 
 #### 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=python,opencv,arduino,raspberrypi&perline=4" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vercel&perline=4" alt="Tech Stack" />
 
 #### 🔗 Links
-[📦 GitHub](https://github.com/bonheur84/drone-system) • [📖 Documentation](https://docs.drone-system.com)
+[🔗 Live Demo](https://portfolio-demo.com) • [📦 GitHub](https://github.com/bonheur84/portfolio-template)
 
 </div>
 
@@ -203,14 +197,14 @@ Contributing: Open source ML frameworks
 <div align="center">
 
 ### 📜 Certifications
-- 🎓 **Deep Learning Specialization** - Coursera (2024)
-- 🎓 **Machine Learning Engineer** - Google (2024)
-- 🎓 **Full Stack Web Development** - FreeCodeCamp (2023)
-- 🎓 **Python for Data Science** - IBM (2023)
+- 🎓 **Full Stack Web Development** - FreeCodeCamp (2024)
+- 🎓 **Python for Everybody** - Coursera (2024)
+- 🎓 **Linux System Administration** - Linux Foundation (2023)
+- 🎓 **PowerShell Automation** - Microsoft (2023)
 
 ### 🏅 Awards
-- 🥇 **Best AI Project** - University Hackathon 2024
-- 🥈 **2nd Place Web Dev Competition** - Tech Summit 2023
+- 🥇 **Best Web Project** - University Hackathon 2024
+- 🥈 **2nd Place Automation Challenge** - Tech Summit 2023
 - ⭐ **Top Contributor** - Open Source Month 2023
 
 ### 📊 GitHub Achievements
@@ -247,19 +241,19 @@ Contributing: Open source ML frameworks
 
 ### 🚀 Professional Goals
 ```yaml
-AI Engineering:
-  - Master Deep Learning architectures
-  - Build production ML systems
-  - Contribute to AI research
-
-Full Stack Development:
-  - Master cloud architecture
+Web Development:
+  - Master modern frameworks
   - Build scalable applications
   - Learn advanced DevOps
 
+Automation:
+  - Create efficient scripts
+  - Optimize workflows
+  - Build automation tools
+
 Open Source:
   - Maintain popular projects
-  - Contribute to major frameworks
+  - Contribute to web frameworks
   - Build developer tools
 
 Impact:
@@ -271,9 +265,9 @@ Impact:
 ### 📚 Learning Roadmap
 | Q1 2026 | Q2 2026 | Q3 2026 | Q4 2026 |
 |---------|---------|---------|---------|
-| Advanced ML | Cloud Architecture | System Design | AI Research |
-| MLOps | Microservices | Performance | Publications |
-| Computer Vision | Security | Scalability | Leadership |
+| Advanced React | Cloud Architecture | System Design | Leadership |
+| Python Mastery | Microservices | Performance | Mentoring |
+| DevOps | Security | Scalability | Consulting |
 
 </div>
 
@@ -285,11 +279,11 @@ Impact:
 
 ### 🔥 What I'm Working On
 
-- 🤖 **Building**: AI-powered educational platform
-- 📚 **Learning**: Advanced deep learning techniques
-- 🌍 **Contributing**: Open source ML frameworks
-- 💡 **Exploring**: Computer vision applications
-- 🚀 **Planning**: Startup in African tech space
+- 💻 **Building**: Full-stack web applications
+- 📚 **Learning**: Advanced React and Python
+- 🌍 **Contributing**: Open source web frameworks
+- 💡 **Exploring**: Cloud deployment solutions
+- 🚀 **Planning**: Automation tools for developers
 
 ### 📅 Availability
 <img src="https://img.shields.io/badge/Availability-Open_to_Collaborate-success?style=for-the-badge&logo=github" alt="Availability" />
