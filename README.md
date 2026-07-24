@@ -157,13 +157,6 @@ Impact:
   - Build educational content
 ```
 
-### 📚 Learning Roadmap
-| Q1 2026 | Q2 2026 | Q3 2026 | Q4 2026 |
-|---------|---------|---------|---------|
-| Advanced React | Cloud Architecture | System Design | Leadership |
-| Python Mastery | Microservices | Performance | Mentoring |
-| DevOps | Security | Scalability | Consulting |
-
 </div>
 
 ---
@@ -194,7 +187,7 @@ Impact:
 ### 📧 Get In Touch
 
 <p align="center">
-<a href="mailto:bonheur@example.com">
+<a href="nzaubonheur84@gmail.com">
 <img src="https://img.shields.io/badge/Email-bonheur@example.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 </p>
@@ -205,21 +198,18 @@ Impact:
 <a href="https://github.com/bonheur84" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-bonheur84-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://linkedin.com/in/bonheur84" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Bonheur_Nzau-FF8E53?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://pinterest.com/in/nzaubonheur84" target="_blank">
+<img src="https://img.shields.io/badge/Pinterest-Bonheur_Nzau-FF8E53?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" />
 </a>
-<a href="https://twitter.com/bonheur84" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-@bonheur84-FF6B9D?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-<a href="https://discord.gg/bonheur84" target="_blank">
-<img src="https://img.shields.io/badge/Discord-Join_Community-9B59B6?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+<a href="https://reddit.com/OpppositeMinimum3599" target="_blank">
+<img src="https://img.shields.io/badge/Reddit-@bonheur84-FF6B9D?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
 </a>
 </p>
 
 ### 🌐 Portfolio
 <p align="center">
 <a href="https://bonheur84.github.io" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Now-4ECDC4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+<img src="portofolio-bonheur.vercel.app" alt="Portfolio" />
 </a>
 </p>
 
