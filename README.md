@@ -7,6 +7,14 @@
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=bonheur84&label=Profile%20Views&color=FF6B6B&style=for-the-badge&logo=github" alt="Profile Views" />
 
+<!-- Developer Badges -->
+<p align="center">
+<img src="https://img.shields.io/badge/🎓-Computer_Science_Student-FF6B6B?style=flat-square" alt="Student" />
+<img src="https://img.shields.io/badge/💻-Web_Developer-FF8E53?style=flat-square" alt="Web Developer" />
+<img src="https://img.shields.io/badge/🐍-Python_Developer-FF6B9D?style=flat-square" alt="Python Developer" />
+<img src="https://img.shields.io/badge/⚡-Automation_Specialist-9B59B6?style=flat-square" alt="Automation" />
+</p>
+
 </div>
 
 ---
@@ -74,8 +82,8 @@ Contributing: Open source web tools
 <div align="center">
 
 ### Stats Overview
-<img src="https://github-readme-stats.vercel.app/api?username=bonheur84&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonheur84&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=bonheur84&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=400" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonheur84&layout=compact&theme=tokyonight&hide_border=true&card_width=400" alt="Top Languages" />
 
 ### Contribution Streak
 <img src="https://streak-stats.demolab.com?user=bonheur84&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Contribution Streak" />
@@ -84,7 +92,7 @@ Contributing: Open source web tools
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bonheur84&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 
 ### Contribution Snake
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bonheur84&theme=tokyonight" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/bonheur84/bonheur84/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 
 </div>
 
