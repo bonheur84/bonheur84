@@ -82,8 +82,8 @@ Contributing: Open source web tools
 <div align="center">
 
 ### Stats Overview
-<img src="https://github-readme-stats.vercel.app/api?username=bonheur84&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=400" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonheur84&layout=compact&theme=tokyonight&hide_border=true&card_width=400" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=bonheur84&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonheur84&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 ### Contribution Streak
 <img src="https://streak-stats.demolab.com?user=bonheur84&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Contribution Streak" />
