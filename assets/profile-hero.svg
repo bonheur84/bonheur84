@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Bonheur Nzau — software developer</title>
+  <desc id="desc">A developer workspace with a laptop, code, and connected ideas on a dark blue background.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081426"/><stop offset="1" stop-color="#131a39"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#56d4ff"/><stop offset="1" stop-color="#9d8cff"/></linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#142943"/><stop offset="1" stop-color="#11152e"/></linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#8291bc" stroke-opacity=".08"/></pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="28"/></filter>
+  </defs>
+  <rect width="1200" height="420" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="420" rx="28" fill="url(#grid)"/>
+  <circle cx="915" cy="188" r="155" fill="#4f46e5" opacity=".2" filter="url(#glow)"/>
+  <circle cx="1074" cy="345" r="105" fill="#22d3ee" opacity=".14" filter="url(#glow)"/>
+  <path d="M0 347C230 304 376 438 641 386s378-18 559-69" fill="none" stroke="#7183d8" stroke-opacity=".18"/>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="70" y="89" fill="#8ee7ff" font-size="15" font-weight="700" letter-spacing="3">SOFTWARE • WEB • AUTOMATION</text>
+    <text x="66" y="166" fill="#f6f8ff" font-size="54" font-weight="750" letter-spacing="-1">BONHEUR NZAU</text>
+    <text x="70" y="210" fill="#c7d2fe" font-size="23" font-weight="500">Computer science student &amp; developer</text>
+    <text x="70" y="253" fill="#a7b4d3" font-size="17">Building thoughtful tools for real-world needs.</text>
+    <g transform="translate(70 294)">
+      <rect width="144" height="36" rx="18" fill="#162b45" stroke="#3f617f"/>
+      <circle cx="19" cy="18" r="5" fill="#5eead4"/><text x="32" y="23" fill="#d7e6f5" font-size="13">Full-stack apps</text>
+      <rect x="156" width="139" height="36" rx="18" fill="#1e2148" stroke="#54519b"/>
+      <circle cx="175" cy="18" r="5" fill="#a78bfa"/><text x="188" y="23" fill="#e4e0ff" font-size="13">Python tools</text>
+      <rect x="307" width="151" height="36" rx="18" fill="#123443" stroke="#287b8d"/>
+      <circle cx="326" cy="18" r="5" fill="#67e8f9"/><text x="339" y="23" fill="#d5f8ff" font-size="13">Useful automation</text>
+    </g>
+  </g>
+  <g transform="translate(684 64)">
+    <rect x="37" y="0" width="398" height="251" rx="19" fill="#111a31" stroke="#62739c" stroke-opacity=".72" stroke-width="2"/>
+    <rect x="51" y="15" width="370" height="222" rx="11" fill="url(#screen)"/>
+    <circle cx="67" cy="31" r="4" fill="#fb7185"/><circle cx="81" cy="31" r="4" fill="#fbbf24"/><circle cx="95" cy="31" r="4" fill="#34d399"/>
+    <rect x="68" y="52" width="72" height="165" rx="7" fill="#0b1830"/>
+    <g fill="#52698d"><rect x="79" y="66" width="43" height="5" rx="2"/><rect x="79" y="82" width="32" height="5" rx="2"/><rect x="79" y="98" width="39" height="5" rx="2"/><rect x="79" y="114" width="27" height="5" rx="2"/><rect x="79" y="130" width="42" height="5" rx="2"/><rect x="79" y="146" width="34" height="5" rx="2"/></g>
+    <g font-family="Consolas,monospace" font-size="13">
+      <text x="158" y="75" fill="#8b9bb9">01</text><text x="188" y="75" fill="#c4b5fd">const</text><text x="232" y="75" fill="#7dd3fc"> build</text><text x="281" y="75" fill="#f8fafc"> = () =&gt; {</text>
+      <text x="158" y="101" fill="#8b9bb9">02</text><text x="188" y="101" fill="#f8fafc">  idea</text><text x="225" y="101" fill="#94a3b8">.</text><text x="233" y="101" fill="#86efac">shape</text><text x="272" y="101" fill="#f8fafc">();</text>
+      <text x="158" y="127" fill="#8b9bb9">03</text><text x="188" y="127" fill="#f8fafc">  make</text><text x="229" y="127" fill="#94a3b8">.</text><text x="237" y="127" fill="#67e8f9">useful</text><text x="282" y="127" fill="#f8fafc">();</text>
+      <text x="158" y="153" fill="#8b9bb9">04</text><text x="188" y="153" fill="#c4b5fd">  return</text><text x="245" y="153" fill="#fbbf24"> impact</text><text x="300" y="153" fill="#f8fafc">;</text>
+      <text x="158" y="179" fill="#8b9bb9">05</text><text x="188" y="179" fill="#f8fafc">};</text>
+    </g>
+    <path d="M15 255H457l34 31q4 6-9 6H-10q-13 0-9-6z" fill="#8492b2"/>
+    <path d="M180 256h126l-12 17h-102z" fill="#586987"/>
+    <rect x="247" y="291" width="34" height="5" rx="2.5" fill="#d6e3f3" opacity=".8"/>
+    <g transform="translate(384 32)">
+      <rect width="110" height="89" rx="14" fill="#17274a" stroke="#7582da" stroke-opacity=".8"/>
+      <path d="M18 61h15l10-18 13 9 13-28 12 19h12" fill="none" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="43" cy="43" r="4" fill="#56d4ff"/><circle cx="69" cy="24" r="4" fill="#9d8cff"/>
+      <text x="18" y="80" font-family="Inter,Arial,sans-serif" fill="#c7d2fe" font-size="10" letter-spacing="1">IDEAS IN MOTION</text>
+    </g>
+    <g fill="none" stroke="#62d9f4" stroke-opacity=".76" stroke-width="1.5">
+      <path d="M431 155l33-25 27 21"/><path d="M471 284l29-26 26 10"/><path d="M22 177l-20-19 14-25"/>
+    </g>
+    <g fill="#7de7f6"><circle cx="464" cy="130" r="4"/><circle cx="491" cy="151" r="4"/><circle cx="500" cy="258" r="4"/><circle cx="526" cy="268" r="4"/><circle cx="2" cy="158" r="4"/></g>
+  </g>
+</svg>
