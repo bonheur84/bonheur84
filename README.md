@@ -33,7 +33,7 @@ I’m a computer science student and software developer interested in building p
 ## GitHub activity
 
 <div align="center">
-  <img src="./assets/contribution-heatmap.svg" alt="Contribution activity heatmap: 159 contributions from September 2025 to September 2026" width="100%" />
+  <img src="./assets/contribution-heatmap.svg?rev=2" alt="Contribution activity heatmap: 159 contributions from September 2025 to September 2026" width="100%" />
 </div>
 
 ## Currently exploring
