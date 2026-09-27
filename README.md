@@ -1,218 +1,53 @@
 <div align="center">
 
-<h1 align="center" style="background: linear-gradient(90deg, #FF6B6B, #FF8E53, #FF6B9D); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 48px; font-weight: bold;">
-👋 Bonheur Nzau
-</h1>
+<img src="./assets/profile-hero.svg" alt="Bonheur Nzau — software developer" width="100%" />
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=bonheur84&label=Profile%20Views&color=FF6B6B&style=for-the-badge&logo=github" alt="Profile Views" />
-
-<!-- Developer Badges -->
-<p align="center">
-<img src="https://img.shields.io/badge/🎓-Computer_Science_Student-FF6B6B?style=flat-square" alt="Student" />
-<img src="https://img.shields.io/badge/💻-Web_Developer-FF8E53?style=flat-square" alt="Web Developer" />
-<img src="https://img.shields.io/badge/🐍-Python_Developer-FF6B9D?style=flat-square" alt="Python Developer" />
-<img src="https://img.shields.io/badge/⚡-Automation_Specialist-9B59B6?style=flat-square" alt="Automation" />
+<p>
+  <a href="https://github.com/bonheur84/portfolio"><img src="https://img.shields.io/badge/Portfolio-Projects-14213d?style=flat-square&logo=github&logoColor=white" alt="Portfolio projects" /></a>
+  <a href="https://linkedin.com/in/bonheur-nzau"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:nzaubonheur84@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-334155?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 </div>
 
----
+## About
 
-## 🧠 About Me
+I’m a computer science student and software developer interested in building practical web products, desktop tools, and workflow automations. I enjoy taking an idea from its first sketch to a working application.
 
-<div align="center">
+<img src="./assets/building-loop.svg" alt="Explore, build, connect, improve" width="100%" />
 
-</div>
-
-I'm a passionate **Computer Science student** and **Web Developer** focused on creating modern digital solutions and automating workflows.
-
-### 🔥 What I Do
-
-- 💻 **Web Development**: Building modern web applications from concept to deployment
-- � **Python Development**: Creating scripts and applications with Python
-- ⚡ **Automation**: PowerShell, CMD, and Linux/Bash scripting for workflow automation
-- � **System Administration**: Linux server management and configuration
-- 🌟 **Open Source**: Contributing to web development projects
-
-### 💡 Current Focus
-
-```yaml
-Learning: Advanced web frameworks
-Building: Full-stack applications
-Exploring: Cloud deployment
-Contributing: Open source web tools
-```
----
-
-## 🎯 Skills Breakdown
-
-### 💻 Web Development
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,nodejs,express&perline=7" alt="Web Dev Skills" />
-
-</div>
-
-### 🐍 Python Development
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,pandas&perline=5" alt="Python Skills" />
-
-</div>
-
-### ⚡ Automation & Scripting
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=powershell,bash,linux,ubuntu,windows&perline=5" alt="Automation Skills" />
-
-</div>
-
-### �️ Database & Tools
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode,postman&perline=6" alt="Database & Tools Skills" />
-
-</div>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-### Stats Overview
-<img src="https://github-readme-stats.vercel.app/api?username=bonheur84&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonheur84&hide_border=true&theme=tokyonight" alt="Top Languages" />
-
-### Contribution Streak
-<img src="https://streak-stats.demolab.com?user=bonheur84&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Contribution Streak" />
-
-### Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bonheur84&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-
-### Contribution Graph
-<img src="https://ghchart.rshah.org/bonheur84" alt="GitHub Contribution Graph" />
-
-</div>
-
----
-
-## 🎯 2026 Goals & Roadmap
-
-<div align="center">
-
-### 🚀 Professional Goals
-
-<div align="center">
-
-```yaml
-AI Engineering:
-  - Become an AI Engineer
-  - Master machine learning algorithms
-  - Build intelligent systems
-
-Robotics & Drones:
-  - Build advanced robots
-  - Develop FPV drones
-  - Create autonomous systems
-
-Data Science:
-  - Master data analysis
-  - Build predictive models
-  - Visualize complex datasets
-
-Open Source:
-  - Contribute to AI frameworks
-  - Build robotics tools
-  - Share knowledge with community
-
-Impact:
-  - Create African tech solutions
-  - Innovate in drone technology
-  - Mentor aspiring engineers
-```
-
-</div>
-
-</div>
-
----
-
-## 🌟 Current Focus
-
-<div align="center">
-
-### 🔥 What I'm Working On
-
-- � **Learning**: Arduino and drone programming
-- � **Building**: FPV drone construction
-- 🤖 **Exploring**: Robotics and embedded systems
-- 💡 **Developing**: Autonomous navigation systems
-- 🚀 **Planning**: AI-powered drone applications
-
-### 📅 Availability
-<img src="https://img.shields.io/badge/Availability-Open_to_Collaborate-success?style=for-the-badge&logo=github" alt="Availability" />
-
-</div>
-
----
-
-## 🌎 Connect With Me
-
-<div align="center">
-
-### 📧 Get In Touch
+## Toolkit
 
 <p align="center">
-<a href="mailto:nzaubonheur84@gmail.com">
-<img src="https://img.shields.io/badge/Email-nzaubonheur84@gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,express,python,mysql,postgres,git,github&perline=10" alt="React, TypeScript, JavaScript, Node.js, Express, Python, MySQL, PostgreSQL, Git, and GitHub" />
 </p>
 
-### 🔗 Social Links
+## Selected projects
 
-<p align="center">
-<a href="https://pinterest.com/nzaubonheur84" target="_blank">
-<img src="https://img.shields.io/badge/Pinterest-nzaubonheur84-FF8E53?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" />
-</a>
-<a href="https://reddit.com/OpppositeMinimum3599" target="_blank">
-<img src="https://img.shields.io/badge/Reddit-OppositeMinimum3599-FF6B9D?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
-</a>
-</p>
+<img src="./assets/project-showcase.svg" alt="CampusGuide, NGOKAF Trans, and Portfolio 3D project cards" width="100%" />
 
-### 🌐 Portfolio
-<p align="center">
-<a href="https://portofolio-bonheur.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-portofolio-bonheur.vercel.app-4ECDC4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-</a>
-</p>
+- [CampusGuide](https://github.com/bonheur84/CampusGuide) — a full-stack campus platform for mentoring, clubs, and events.
+- [NGOKAF Trans](https://github.com/bonheur84/NGOKAF-Trans) — a Windows desktop system for ticketing, baggage, and transport operations.
+- [Portfolio](https://github.com/bonheur84/portfolio) — an interactive portfolio built with a React frontend and an Express/PostgreSQL backend.
+
+## GitHub activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bonheur84&show_icons=true&hide_border=true&hide_title=true&theme=transparent&rank_icon=github" alt="GitHub contribution and repository statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonheur84&layout=compact&langs_count=6&hide_border=true&theme=transparent" alt="Most-used programming languages on GitHub" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bonheur84&bg_color=ffffff00&color=64748b&line=6366f1&point=06b6d4&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
 
 </div>
+
+## Currently exploring
+
+- Robotics, embedded systems, and drone programming
+- Better ways to connect software, data, and everyday workflows
 
 ---
 
 <div align="center">
-
-### ⭐ Thanks for Visiting My Profile
-
-<img src="https://img.shields.io/badge/Thank_You-⭐-FF6B9D?style=for-the-badge&logo=star&logoColor=white" alt="Thank You" />
-
-<p style="font-size: 24px; font-weight: bold; background: linear-gradient(90deg, #FF6B6B, #FF8E53, #FF6B9D); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-"Code • Learn • Build • Innovate"
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Made_with-❤️_by_Bonheur_Nzau-FF6B6B?style=for-the-badge" alt="Made with ❤️" />
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-### 📊 Profile Views Since 2024
-<img src="https://count.getloli.com/get/@bonheur84?theme=asoul" alt="Profile Views" />
-
+  <sub>Thanks for stopping by. I’m always happy to connect with people who enjoy building useful things.</sub>
 </div>
