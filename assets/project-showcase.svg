@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 330" role="img" aria-labelledby="title desc">
+  <title id="title">Selected projects</title>
+  <desc id="desc">Illustrated cards for CampusGuide, NGOKAF Trans, and a full-stack portfolio.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1427"/><stop offset="1" stop-color="#171b38"/></linearGradient>
+    <linearGradient id="c1" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#143b4e"/><stop offset="1" stop-color="#192547"/></linearGradient>
+    <linearGradient id="c2" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#382b63"/><stop offset="1" stop-color="#202544"/></linearGradient>
+    <linearGradient id="c3" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#174a49"/><stop offset="1" stop-color="#1c2945"/></linearGradient>
+  </defs>
+  <rect width="1100" height="330" rx="24" fill="url(#bg)"/>
+  <text x="42" y="47" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2.6" fill="#8de7ff">SELECTED WORK</text>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <g transform="translate(36 70)">
+      <rect width="328" height="224" rx="18" fill="url(#c1)" stroke="#34738a"/>
+      <circle cx="276" cy="49" r="29" fill="#103248" stroke="#49c5d9"/>
+      <path d="M260 50h32M276 34v32M263 38l26 25M289 38l-26 25" stroke="#79e5f3" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="276" cy="49" r="5" fill="#79e5f3"/>
+      <text x="24" y="43" fill="#81e4f2" font-size="11" font-weight="700" letter-spacing="1.7">FULL-STACK WEB</text>
+      <text x="24" y="82" fill="#f4f7ff" font-size="24" font-weight="700">CampusGuide</text>
+      <text x="24" y="112" fill="#bac9df" font-size="14">A campus platform for mentoring,</text>
+      <text x="24" y="133" fill="#bac9df" font-size="14">clubs, events and student life.</text>
+      <path d="M24 164h280" stroke="#91a6c4" stroke-opacity=".25"/>
+      <text x="24" y="191" fill="#c5d9ee" font-size="12">REACT  ·  NODE.JS  ·  MYSQL</text>
+    </g>
+    <g transform="translate(386 70)">
+      <rect width="328" height="224" rx="18" fill="url(#c2)" stroke="#6957a6"/>
+      <circle cx="276" cy="49" r="29" fill="#2a2452" stroke="#a694ff"/>
+      <rect x="259" y="34" width="34" height="28" rx="4" fill="none" stroke="#c4b5fd" stroke-width="2"/>
+      <path d="M259 41h34M266 38h.1M271 38h.1M276 38h.1" stroke="#c4b5fd" stroke-width="3" stroke-linecap="round"/>
+      <path d="M265 49h9v8h-9zM279 49h9M279 54h9" fill="none" stroke="#c4b5fd" stroke-width="2" stroke-linecap="round"/>
+      <text x="24" y="43" fill="#c2b6ff" font-size="11" font-weight="700" letter-spacing="1.7">DESKTOP SOFTWARE</text>
+      <text x="24" y="82" fill="#f4f7ff" font-size="24" font-weight="700">NGOKAF Trans</text>
+      <text x="24" y="112" fill="#c9c5e1" font-size="14">Windows tools for ticketing, baggage</text>
+      <text x="24" y="133" fill="#c9c5e1" font-size="14">operations and business reporting.</text>
+      <path d="M24 164h280" stroke="#aaa1d2" stroke-opacity=".25"/>
+      <text x="24" y="191" fill="#ded8ff" font-size="12">PYTHON  ·  MYSQL  ·  REPORTS</text>
+    </g>
+    <g transform="translate(736 70)">
+      <rect width="328" height="224" rx="18" fill="url(#c3)" stroke="#3c8176"/>
+      <circle cx="276" cy="49" r="29" fill="#123b3d" stroke="#56d6bd"/>
+      <path d="M258 57l12-17 10 9 13-17" fill="none" stroke="#8af0d5" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="258" cy="57" r="3" fill="#8af0d5"/><circle cx="270" cy="40" r="3" fill="#8af0d5"/><circle cx="280" cy="49" r="3" fill="#8af0d5"/><circle cx="293" cy="32" r="3" fill="#8af0d5"/>
+      <text x="24" y="43" fill="#88ead1" font-size="11" font-weight="700" letter-spacing="1.7">CREATIVE PORTFOLIO</text>
+      <text x="24" y="82" fill="#f4f7ff" font-size="24" font-weight="700">Portfolio 3D</text>
+      <text x="24" y="112" fill="#bed8d2" font-size="14">An interactive full-stack portfolio</text>
+      <text x="24" y="133" fill="#bed8d2" font-size="14">with a modern, immersive interface.</text>
+      <path d="M24 164h280" stroke="#a0c9be" stroke-opacity=".25"/>
+      <text x="24" y="191" fill="#d2f2e9" font-size="12">REACT  ·  TYPESCRIPT  ·  POSTGRESQL</text>
+    </g>
+  </g>
+</svg>
