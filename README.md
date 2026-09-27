@@ -33,12 +33,7 @@ I’m a computer science student and software developer interested in building p
 ## GitHub activity
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bonheur84&show_icons=true&hide_border=true&hide_title=true&theme=transparent&rank_icon=github" alt="GitHub contribution and repository statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonheur84&layout=compact&langs_count=6&hide_border=true&theme=transparent" alt="Most-used programming languages on GitHub" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bonheur84&bg_color=ffffff00&color=64748b&line=6366f1&point=06b6d4&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
-
+  <img src="./assets/contribution-heatmap.svg" alt="Contribution activity heatmap: 159 contributions from September 2025 to September 2026" width="100%" />
 </div>
 
 ## Currently exploring
